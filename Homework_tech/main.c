@@ -79,6 +79,7 @@ int SqEquation(double a, double b, double c, double* x1, double* x2) {
     
 }
 
+
 int LinearEquation (double b, double c, double* x1) {
     if (Sign(b)==0)
         {
